@@ -125,9 +125,10 @@ header {
   float: right;
   margin-left: 50px;
 }
-.top-bar .player-display .player-current-track {
-  color: white;
+.top-bar .player-display .player-current-track{
+  color: #EEE;
 }
+
 .top-bar .player {
   float: left;
 }

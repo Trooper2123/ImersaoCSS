@@ -76,6 +76,7 @@ $(function () {
   $(".player-prev").click(function () {
     player.playPrevious();
   });
+  
 });
 
 
